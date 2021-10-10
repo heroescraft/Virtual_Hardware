@@ -1,7 +1,7 @@
 WELCOME:
 	Welcome to Virtual Hardware! This is a Python program that 
 	attempts to model an actual computer. This documentation covers
-	how to use the "fake computer" part.
+	how to use the "fake computer" part and the logic gates.
 
 LOGIC GATES:
 	This code also does come with
