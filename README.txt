@@ -45,6 +45,12 @@ BUILDING FURTHER:
 	IF YOU HAVE ANY IDEAS ON HOW TO FIX ANY BUGS PLEASE LET ME KNOW!
 
 
+TO USE THESE FUNCTIONS:
+	
+	It would be helpful to change main.py's name to like vhw.py or something
+	then:
+	from vhw import *
+
 DEFAULT COMPUTER SYSTEM:
 
 	Welcome to the default "computer"! This can be runned by just 
